@@ -6,7 +6,7 @@ import re
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 OCA_PTC_DIR = os.path.join(BASE_DIR, "..", "oca-pipeline", "data", "monthly", "ptc")
-DA_FILE = os.path.join(BASE_DIR, "..", "pjm-pipeline", "data", "daily", "da_all_years.csv")
+DA_FILE = os.path.join(BASE_DIR, "..", "pjm-pipeline", "data", "daily", "da_pa_all_years_summary.csv")
 RT_FILE = os.path.join(BASE_DIR, "..", "pjm-pipeline", "data", "daily", "rt_pa_all_years_summary.csv")
 OUTPUT_FILE = os.path.join(BASE_DIR, "markup_2017_01_to_2024_08.csv")
 
@@ -100,7 +100,6 @@ def load_oca_ptc(ptc_dir):
 
         temp["Year"] = year
         temp["Month"] = month_num
-
         temp["EDC"] = temp["EDC_raw"].apply(map_oca_edc)
 
         temp["PTC"] = (
@@ -111,7 +110,6 @@ def load_oca_ptc(ptc_dir):
         temp["PTC"] = pd.to_numeric(temp["PTC"], errors="coerce")
 
         temp = temp.dropna(subset=["EDC", "PTC"])
-
         temp = temp.groupby(["Year", "Month", "EDC"], as_index=False)["PTC"].mean()
 
         dfs.append(temp)
@@ -126,19 +124,17 @@ def load_oca_ptc(ptc_dir):
 def load_da(da_file):
     df = pd.read_csv(da_file)
 
-    if "aggregation" in df.columns:
-        df = df[df["aggregation"].astype(str).str.lower() == "average"].copy()
+    required_cols = {"Year", "Month", "EDC", "Average"}
+    if not required_cols.issubset(df.columns):
+        raise ValueError(f"DA file must contain columns: {required_cols}")
 
-    date_split = df["date"].astype(str).str.split("/", expand=True)
-    df["yy"] = pd.to_numeric(date_split[0], errors="coerce")
-    df["Month"] = pd.to_numeric(date_split[1], errors="coerce")
-    df["Year"] = 2000 + df["yy"]
+    df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
+    df["Month"] = pd.to_numeric(df["Month"], errors="coerce")
+    df["EDC"] = df["EDC"].apply(normalize_text)
+    df["DA_raw"] = pd.to_numeric(df["Average"], errors="coerce")
 
     df = df.dropna(subset=["Year", "Month"])
     df = df[df.apply(lambda r: in_range(int(r["Year"]), int(r["Month"])), axis=1)].copy()
-
-    df["EDC"] = df["name"].apply(normalize_text)
-    df["DA_raw"] = pd.to_numeric(df["value"], errors="coerce")
 
     # $/MWh -> cents/kWh
     df["DA"] = df["DA_raw"] / 10.0
@@ -149,6 +145,10 @@ def load_da(da_file):
 
 def load_rt(rt_file):
     df = pd.read_csv(rt_file)
+
+    required_cols = {"Year", "Month", "EDC", "Average"}
+    if not required_cols.issubset(df.columns):
+        raise ValueError(f"RT file must contain columns: {required_cols}")
 
     df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
     df["Month"] = pd.to_numeric(df["Month"], errors="coerce")
@@ -181,8 +181,11 @@ def build_markup():
 
     merged = merged.sort_values(["Year", "Month", "EDC"]).reset_index(drop=True)
 
-    # 2 d.p.
-    cols_to_round = ["PTC", "DA", "RT", "markup_da", "markup_rt", "markup_rate_da", "markup_rate_rt"]
+    cols_to_round = [
+        "PTC", "DA", "RT",
+        "markup_da", "markup_rt",
+        "markup_rate_da", "markup_rate_rt"
+    ]
     merged[cols_to_round] = merged[cols_to_round].round(2)
 
     merged.to_csv(OUTPUT_FILE, index=False)
@@ -191,6 +194,10 @@ def build_markup():
     print(f"Output saved to: {OUTPUT_FILE}")
     print(f"Rows: {len(merged)}")
     print(merged.head(20))
+
+    print("\nCheck whether DA and RT are identical:")
+    same_count = (merged["DA"] == merged["RT"]).sum()
+    print(f"DA == RT rows: {same_count} / {len(merged)}")
 
 
 if __name__ == "__main__":
