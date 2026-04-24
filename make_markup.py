@@ -157,10 +157,13 @@ def compute_moments(df):
     return out
 
 
-def simulate_model(df):
+def simulate_model(df, theta=(0.0, 1.0), save=True):
+    mu_shift, sigma_scale = theta
     rows = []
 
-    for (y,m,z), g in df.groupby(["Year","Month","EDC"]):
+    np.random.seed(42)
+
+    for (y, m, z), g in df.groupby(["Year", "Month", "EDC"]):
         prices = g["price"]
 
         if len(prices) < 5:
@@ -171,7 +174,13 @@ def simulate_model(df):
         sigma = logp.std()
 
         N = len(prices)
-        sim_price = np.random.lognormal(mu, sigma, N)
+
+        # theta controls simulated price distribution
+        sim_price = np.random.lognormal(
+            mean=mu + mu_shift,
+            sigma=sigma * sigma_scale,
+            size=N
+        )
 
         ptc = g["PTC"].iloc[0]
         sim_markup = sim_price - ptc
@@ -184,14 +193,69 @@ def simulate_model(df):
             "MeanMarkup": sim_markup.mean(),
             "Variance": sim_markup.var(),
             "ShareAbovePTC": (sim_markup > 0).mean(),
-            "Q25": np.quantile(sim_markup,0.25),
-            "Q50": np.quantile(sim_markup,0.5),
-            "Q75": np.quantile(sim_markup,0.75),
+            "Q25": np.quantile(sim_markup, 0.25),
+            "Q50": np.quantile(sim_markup, 0.5),
+            "Q75": np.quantile(sim_markup, 0.75),
         })
 
     out = pd.DataFrame(rows)
-    out.to_csv(OUT_SIM, index=False)
+
+    if save:
+        out.to_csv(OUT_SIM, index=False)
+
     return out
+
+def compute_loss(data_moments, sim_moments):
+    cols = ["MeanMarkup", "Variance", "ShareAbovePTC", "Q25", "Q50", "Q75"]
+
+    merged = data_moments.merge(
+        sim_moments,
+        on=["Year", "Month", "EDC"],
+        suffixes=("_data", "_model")
+    )
+
+    loss = 0
+    for c in cols:
+        diff = merged[f"{c}_data"] - merged[f"{c}_model"]
+        loss += (diff ** 2).mean()
+
+    return loss
+
+
+def calibrate_model(df, data_moments):
+    best_loss = float("inf")
+    best_theta = None
+    best_sim = None
+
+    mu_grid = np.linspace(-0.3, 0.3, 13)
+    sigma_grid = np.linspace(0.6, 1.4, 9)
+
+    results = []
+
+    for mu_shift in mu_grid:
+        for sigma_scale in sigma_grid:
+            theta = (mu_shift, sigma_scale)
+
+            sim = simulate_model(df, theta=theta, save=False)
+            loss = compute_loss(data_moments, sim)
+
+            results.append({
+                "mu_shift": mu_shift,
+                "sigma_scale": sigma_scale,
+                "loss": loss
+            })
+
+            if loss < best_loss:
+                best_loss = loss
+                best_theta = theta
+                best_sim = sim
+
+    results_df = pd.DataFrame(results)
+    results_df.to_csv(os.path.join(BASE_DIR, "calibration_results.csv"), index=False)
+
+    best_sim.to_csv(OUT_SIM, index=False)
+
+    return best_theta, best_loss, best_sim, results_df
 
 
 if __name__ == "__main__":
@@ -204,11 +268,27 @@ if __name__ == "__main__":
     print("\nData moments:")
     print(moments.head())
 
-    sim = simulate_model(df)
-    print("\nSimulated moments:")
-    print(sim.head())
+theta0 = (0.0, 1.0)
+sim0 = simulate_model(df, theta=theta0, save=False)
+initial_loss = compute_loss(moments, sim0)
 
-    print("\nSaved:")
-    print(OUT_MARKUP)
-    print(OUT_MOMENTS)
-    print(OUT_SIM)
+print("\nInitial theta:")
+print(theta0)
+print("Initial MSM loss:")
+print(initial_loss)
+
+best_theta, best_loss, sim, results = calibrate_model(df, moments)
+
+print("\nBest theta:")
+print(best_theta)
+print("Best MSM loss:")
+print(best_loss)
+
+print("\nSimulated moments with best theta:")
+print(sim.head())
+
+print("\nSaved:")
+print(OUT_MARKUP)
+print(OUT_MOMENTS)
+print(OUT_SIM)
+print(os.path.join(BASE_DIR, "calibration_results.csv"))
