@@ -52,6 +52,10 @@ for col in [
     summary[col] = summary[col].round(4)
 
 # Save original numerical data as CSV
+# Round shares to 4 decimal places for CSV
+summary["Share Above PTC"] = summary["Share Above PTC"].round(4)
+summary["Share Below PTC"] = summary["Share Below PTC"].round(4)
+
 summary.to_csv(csv_output, index=False)
 
 # Create display version
