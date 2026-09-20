@@ -1,0 +1,1754 @@
+source,Year,Month,EDC,EGS,rate,term_months,signup_fee,early_termination_fee,green_percentage,date,PTC,comparison
+WattBuy,2020,2,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-02-01,6.4145,Below
+WattBuy,2020,2,APS,Nittany Energy LLC,5.59,6.0,0.0,0.0,0.0,2020-02-01,6.4145,Below
+WattBuy,2020,2,APS,Nittany Energy LLC,5.75,6.0,0.0,0.0,0.0,2020-02-01,6.4145,Below
+WattBuy,2020,2,APS,SmartEnergy,5.3,6.0,0.0,0.0,0.0,2020-02-01,6.4145,Below
+WattBuy,2020,2,APS,Town Square Energy,7.380000000000001,6.0,0.0,0.0,0.0,2020-02-01,6.4145,Above
+WattBuy,2020,2,APS,"Verde Energy USA, Inc.",5.390000000000001,6.0,0.0,0.0,0.0,2020-02-01,6.4145,Below
+WattBuy,2020,3,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,Nittany Energy LLC,5.59,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,Nittany Energy LLC,5.75,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,SmartEnergy,5.3,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,SmartEnergy,5.1,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,Titan Gas and Power,4.590000000000001,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,Titan Gas and Power,4.49,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,"Verde Energy USA, Inc.",5.390000000000001,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,3,APS,"Verde Energy USA, Inc.",5.19,6.0,0.0,0.0,0.0,2020-03-01,5.952,Below
+WattBuy,2020,4,APS,AEP Energy,4.29,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,AEP Energy,4.390000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,Nittany Energy LLC,5.59,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,Nittany Energy LLC,5.75,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,SmartEnergy,5.1,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,SmartEnergy,4.99,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,Titan Gas and Power,4.49,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,Titan Gas and Power,4.29,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,Titan Gas and Power,4.279999999999999,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,"Verde Energy USA, Inc.",5.19,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,"Verde Energy USA, Inc.",4.6899999999999995,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,4,APS,"Verde Energy USA, Inc.",4.279999999999999,6.0,0.0,0.0,0.0,2020-04-01,5.952,Below
+WattBuy,2020,5,APS,AEP Energy,4.29,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,AEP Energy,4.390000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,AEP Energy,4.49,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,Better Buy Energy,4.6899999999999995,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,Nittany Energy LLC,5.59,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,Nittany Energy LLC,5.75,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,SmartEnergy,4.99,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,Titan Gas and Power,4.279999999999999,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,"Verde Energy USA, Inc.",4.279999999999999,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,5,APS,"Verde Energy USA, Inc.",4.5,6.0,0.0,0.0,0.0,2020-05-01,5.952,Below
+WattBuy,2020,7,APS,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,AEP Energy,4.45,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,Better Buy Energy,4.6899999999999995,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,Direct Energy,4.49,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,Direct Energy,4.89,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,Direct Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,Respond Power LLC,4.78,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,SmartEnergy,4.8,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Above
+WattBuy,2020,7,APS,Titan Gas and Power,4.279999999999999,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,Titan Gas and Power,3.7900000000000005,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,"Verde Energy USA, Inc.",4.5,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,7,APS,"Verde Energy USA, Inc.",4.99,6.0,0.0,0.0,0.0,2020-07-01,5.9045,Below
+WattBuy,2020,8,APS,AEP Energy,4.45,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,8,APS,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,8,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,8,APS,Better Buy Energy,4.6899999999999995,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,8,APS,Direct Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,8,APS,Respond Power LLC,4.78,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,8,APS,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-08-01,5.952,Above
+WattBuy,2020,8,APS,SmartEnergy,7.9,6.0,0.0,0.0,0.0,2020-08-01,5.952,Above
+WattBuy,2020,8,APS,Titan Gas and Power,3.7900000000000005,6.0,0.0,0.0,0.0,2020-08-01,5.952,Below
+WattBuy,2020,9,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,CleanSky Energy,3.79,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,Energy Harbor LLC,5.09,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,Respond Power LLC,4.78,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,Respond Power LLC,5.68,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,9,APS,SmartEnergy,8.9,6.0,0.0,0.0,0.0,2020-09-01,2.669,Above
+WattBuy,2020,10,APS,AEP Energy,5.25,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,CleanSky Energy,3.79,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,Energy Harbor LLC,5.09,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,Energy Harbor LLC,5.89,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,Energy Harbor LLC,5.49,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,Respond Power LLC,5.68,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,10,APS,SmartEnergy,9.1,6.0,0.0,0.0,0.0,2020-10-01,2.669,Above
+WattBuy,2020,11,APS,AEP Energy,5.25,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,AEP Energy,5.39,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2020-11-01,5.669,Above
+WattBuy,2020,11,APS,CleanSky Energy,3.79,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,CleanSky Energy,4.5,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,Energy Harbor LLC,5.49,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2020-11-01,5.669,Below
+WattBuy,2020,11,APS,Respond Power LLC,5.68,6.0,0.0,0.0,0.0,2020-11-01,5.669,Above
+WattBuy,2020,11,APS,Respond Power LLC,5.99,6.0,0.0,0.0,0.0,2020-11-01,5.669,Above
+WattBuy,2020,11,APS,SmartEnergy,9.1,6.0,0.0,0.0,0.0,2020-11-01,5.669,Above
+WattBuy,2020,11,APS,SmartEnergy,9.3,6.0,0.0,0.0,0.0,2020-11-01,5.669,Above
+WattBuy,2020,12,APS,AEP Energy,5.39,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,AEP Energy,5.05,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Above
+WattBuy,2020,12,APS,CleanSky Energy,4.5,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,Energy Harbor LLC,5.49,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Above
+WattBuy,2020,12,APS,Respond Power LLC,5.99,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Above
+WattBuy,2020,12,APS,Respond Power LLC,5.38,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Below
+WattBuy,2020,12,APS,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Above
+WattBuy,2020,12,APS,Star Energy Partners LLC,6.19,6.0,0.0,0.0,0.0,2020-12-01,5.8165,Above
+WattBuy,2021,1,APS,AEP Energy,5.05,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,1,APS,Better Buy Energy,4.89,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,Brighten Energy,5.19,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,CleanSky Energy,4.5,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,CleanSky Energy,3.99,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,Dynegy,5.09,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,Energy Harbor LLC,5.49,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,Major Energy,5.24,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Below
+WattBuy,2021,1,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,1,APS,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,1,APS,SmartEnergy,8.7,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,1,APS,Star Energy Partners LLC,6.19,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,1,APS,Star Energy Partners LLC,6.59,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,1,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-01-01,5.8165,Above
+WattBuy,2021,2,APS,AEP Energy,5.05,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,AEP Energy,5.46,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Above
+WattBuy,2021,2,APS,Better Buy Energy,4.89,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Brighten Energy,5.19,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,CleanSky Energy,3.99,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Dynegy,5.09,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Energy Harbor LLC,5.49,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Energy Harbor LLC,5.69,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Major Energy,5.24,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Major Energy,5.48,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Below
+WattBuy,2021,2,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Above
+WattBuy,2021,2,APS,SmartEnergy,8.7,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Above
+WattBuy,2021,2,APS,SmartEnergy,8.8,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Above
+WattBuy,2021,2,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-02-01,5.8165,Above
+WattBuy,2021,3,APS,AEP Energy,5.46,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,AEP Energy,5.69,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Better Buy Energy,4.89,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Brighten Energy,5.19,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Brighten Energy,5.29,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,CleanSky Energy,3.99,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,CleanSky Energy,4.51,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Dynegy,5.09,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Energy Harbor LLC,5.69,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,"IDT Energy, Inc.",7.32,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Inspire,5.09,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Inspire,6.29,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Liberty Power,6.09,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Major Energy,5.48,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Major Energy,5.38,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Residents Energy LLC,6.82,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,SmartEnergy,8.8,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,3,APS,"Verde Energy USA, Inc.",5.49,6.0,0.0,0.0,0.0,2021-03-01,0.4375,Above
+WattBuy,2021,4,APS,AEP Energy,5.69,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,AEP Energy,5.85,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Better Buy Energy,4.89,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Brighten Energy,5.29,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,CleanSky Energy,4.51,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Dynegy,5.09,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Energy Harbor LLC,5.69,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,"IDT Energy, Inc.",7.32,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,"IDT Energy, Inc.",7.33,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Inspire,6.29,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Liberty Power,6.09,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Liberty Power,6.08,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Major Energy,5.38,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Residents Energy LLC,6.82,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,SmartEnergy,8.8,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,"Verde Energy USA, Inc.",5.49,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,4,APS,"Verde Energy USA, Inc.",5.69,6.0,0.0,0.0,0.0,2021-04-01,0.4375,Above
+WattBuy,2021,5,APS,AEP Energy,5.85,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,AEP Energy,6.15,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Better Buy Energy,4.89,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Brighten Energy,5.29,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Brighten Energy,5.49,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,CleanSky Energy,4.51,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,CleanSky Energy,5.49,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,CleanSky Energy,5.99,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Dynegy,5.09,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Dynegy,5.19,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Energy Harbor LLC,6.19,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,"IDT Energy, Inc.",7.33,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,"IDT Energy, Inc.",7.21,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Inspire,6.29,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Liberty Power,6.09,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Liberty Power,6.08,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Major Energy,5.38,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Major Energy,5.68,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Major Energy,5.99,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Residents Energy LLC,6.67,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,SmartEnergy,8.8,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,SmartEnergy,9.3,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,"Verde Energy USA, Inc.",5.69,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,5,APS,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2021-05-01,0.4375,Above
+WattBuy,2021,6,APS,AEP Energy,6.15,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,AEP Energy,6.34,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,AEP Energy,6.25,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Better Buy Energy,4.89,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Better Buy Energy,5.39,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Brighten Energy,5.49,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Brighten Energy,5.79,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,CleanSky Energy,5.99,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Dynegy,5.19,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Dynegy,5.49,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Energy Harbor LLC,6.19,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,"IDT Energy, Inc.",7.21,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,"IDT Energy, Inc.",7.72,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,Inspire,6.29,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Liberty Power,6.08,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Liberty Power,6.09,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Liberty Power,6.29,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Major Energy,5.99,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Major Energy,6.19,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,Major Energy,5.96,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,National Gas & Electric,5.29,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,National Gas & Electric,6.58,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,Residents Energy LLC,6.67,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,Residents Energy LLC,7.16,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,SmartEnergy,9.3,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,SmartEnergy,10.0,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-06-01,6.451,Above
+WattBuy,2021,6,APS,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,6,APS,"Verde Energy USA, Inc.",6.16,6.0,0.0,0.0,0.0,2021-06-01,6.451,Below
+WattBuy,2021,7,APS,"AP Gas & Electric (PA), LLC",5.939,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,CleanSky Energy,5.99,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Energy Harbor LLC,6.98,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,"IDT Energy, Inc.",7.72,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,"IDT Energy, Inc.",8.34,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Inspire,6.29,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Liberty Power,6.29,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Liberty Power,6.59,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Major Energy,6.39,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,National Gas & Electric,6.58,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Residents Energy LLC,7.16,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Residents Energy LLC,7.68,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,SmartEnergy,10.0,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,SmartEnergy,10.8,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,Star Energy Partners LLC,6.69,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,"Verde Energy USA, Inc.",6.55,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2021,7,APS,"Verde Energy USA, Inc.",6.61,6.0,0.0,0.0,0.0,2021-07-01,0.451,Above
+WattBuy,2020,2,DUQ,"AP Gas & Electric (PA), LLC",6.4799999999999995,6.0,0.0,0.0,0.0,2020-02-01,6.7533,Below
+WattBuy,2020,2,DUQ,Frontier Utilities Northeast LLC,8.99,6.0,0.0,0.0,0.0,2020-02-01,6.7533,Above
+WattBuy,2020,2,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-02-01,6.7533,Above
+WattBuy,2020,2,DUQ,SmartEnergy,7.39,6.0,0.0,0.0,0.0,2020-02-01,6.7533,Above
+WattBuy,2020,2,DUQ,Town Square Energy,6.47,6.0,0.0,0.0,0.0,2020-02-01,6.7533,Below
+WattBuy,2020,2,DUQ,"Verde Energy USA, Inc.",7.090000000000001,6.0,0.0,0.0,0.0,2020-02-01,6.7533,Above
+WattBuy,2020,3,DUQ,"AP Gas & Electric (PA), LLC",6.4799999999999995,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Below
+WattBuy,2020,3,DUQ,"AP Gas & Electric (PA), LLC",6.069999999999999,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Below
+WattBuy,2020,3,DUQ,Frontier Utilities Northeast LLC,8.99,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Above
+WattBuy,2020,3,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Above
+WattBuy,2020,3,DUQ,SmartEnergy,7.39,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Above
+WattBuy,2020,3,DUQ,SmartEnergy,8.200000000000001,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Above
+WattBuy,2020,3,DUQ,Titan Gas and Power,5.489999999999999,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Below
+WattBuy,2020,3,DUQ,Titan Gas and Power,5.38,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Below
+WattBuy,2020,3,DUQ,"Verde Energy USA, Inc.",7.090000000000001,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Above
+WattBuy,2020,3,DUQ,"Verde Energy USA, Inc.",6.79,6.0,0.0,0.0,0.0,2020-03-01,6.7533,Above
+WattBuy,2020,4,DUQ,"AP Gas & Electric (PA), LLC",6.069999999999999,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,Frontier Utilities Northeast LLC,8.99,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Above
+WattBuy,2020,4,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Above
+WattBuy,2020,4,DUQ,Respond Power LLC,6.3,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,Respond Power LLC,6.1,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,SmartEnergy,8.200000000000001,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Above
+WattBuy,2020,4,DUQ,SmartEnergy,7.19,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Above
+WattBuy,2020,4,DUQ,Titan Gas and Power,5.38,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,Titan Gas and Power,5.28,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,Titan Gas and Power,5.19,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,Titan Gas and Power,5.18,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,"Verde Energy USA, Inc.",6.79,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Above
+WattBuy,2020,4,DUQ,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,4,DUQ,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-04-01,6.7533,Below
+WattBuy,2020,5,DUQ,AEP Energy,6.29,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,"AP Gas & Electric (PA), LLC",6.069999999999999,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,Better Buy Energy,5.89,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,Frontier Utilities Northeast LLC,8.99,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Above
+WattBuy,2020,5,DUQ,Frontier Utilities Northeast LLC,5.0,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,Great American Power,7.6899999999999995,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Above
+WattBuy,2020,5,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Above
+WattBuy,2020,5,DUQ,Respond Power LLC,6.1,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,SmartEnergy,7.19,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Above
+WattBuy,2020,5,DUQ,SmartEnergy,6.69,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,Titan Gas and Power,5.19,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,Titan Gas and Power,4.99,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,Titan Gas and Power,4.88,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,5,DUQ,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-05-01,6.7533,Below
+WattBuy,2020,7,DUQ,AEP Energy,6.1899999999999995,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,"AP Gas & Electric (PA), LLC",6.069999999999999,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Better Buy Energy,5.79,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Direct Energy,5.74,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Direct Energy,6.79,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Discount Power Inc.,7.19,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Discount Power Inc.,7.290000000000001,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Frontier Utilities Northeast LLC,5.0,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Frontier Utilities Northeast LLC,6.0,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Great American Power,7.6899999999999995,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Inspire,6.09,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Respond Power LLC,6.1,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,SmartEnergy,6.69,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,SmartEnergy,6.890000000000001,6.0,0.0,0.0,0.0,2020-07-01,6.65,Above
+WattBuy,2020,7,DUQ,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Titan Gas and Power,5.0,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,Titan Gas and Power,4.78,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,"Verde Energy USA, Inc.",6.09,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,7,DUQ,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2020-07-01,6.65,Below
+WattBuy,2020,8,DUQ,AEP Energy,6.1899999999999995,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,AEP Energy,6.35,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,"AP Gas & Electric (PA), LLC",6.069999999999999,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,Better Buy Energy,5.79,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,Direct Energy,6.79,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,Discount Power Inc.,7.290000000000001,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,Great American Power,7.6899999999999995,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,Respond Power LLC,6.1,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,Respond Power LLC,6.3,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,SmartEnergy,6.890000000000001,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,SmartEnergy,7.489999999999999,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Above
+WattBuy,2020,8,DUQ,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,Titan Gas and Power,4.78,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,8,DUQ,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-08-01,6.7533,Below
+WattBuy,2020,9,DUQ,AEP Energy,6.35,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,AEP Energy,6.55,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,"AP Gas & Electric (PA), LLC",6.07,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,CleanSky Energy,5.0,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,Discount Power Inc.,7.29,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,Discount Power Inc.,8.19,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,Respond Power LLC,6.3,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,Respond Power LLC,6.9,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,Sunrise Power and Gas,6.64,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,9,DUQ,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-09-01,7.11,Above
+WattBuy,2020,9,DUQ,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-09-01,7.11,Below
+WattBuy,2020,10,DUQ,AEP Energy,6.55,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,"AP Gas & Electric (PA), LLC",6.07,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,CleanSky Energy,5.0,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,CleanSky Energy,5.4,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Discount Power Inc.,8.19,6.0,0.0,0.0,0.0,2020-10-01,7.11,Above
+WattBuy,2020,10,DUQ,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2020-10-01,7.11,Above
+WattBuy,2020,10,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2020-10-01,7.11,Above
+WattBuy,2020,10,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2020-10-01,7.11,Above
+WattBuy,2020,10,DUQ,Respond Power LLC,6.9,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Respond Power LLC,6.79,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2020-10-01,7.11,Above
+WattBuy,2020,10,DUQ,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Sunrise Power and Gas,6.24,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-10-01,7.11,Above
+WattBuy,2020,10,DUQ,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,10,DUQ,"Verde Energy USA, Inc.",6.79,6.0,0.0,0.0,0.0,2020-10-01,7.11,Below
+WattBuy,2020,11,DUQ,AEP Energy,6.55,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,AEP Energy,6.89,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,CleanSky Energy,5.4,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2020-11-01,7.11,Above
+WattBuy,2020,11,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2020-11-01,7.11,Above
+WattBuy,2020,11,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2020-11-01,7.11,Above
+WattBuy,2020,11,DUQ,Respond Power LLC,6.79,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Respond Power LLC,6.99,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Respond Power LLC,6.5,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2020-11-01,7.11,Above
+WattBuy,2020,11,DUQ,SmartEnergy,7.7,6.0,0.0,0.0,0.0,2020-11-01,7.11,Above
+WattBuy,2020,11,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-11-01,7.11,Above
+WattBuy,2020,11,DUQ,Sunrise Power and Gas,6.44,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,"Verde Energy USA, Inc.",6.79,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,"Verde Energy USA, Inc.",6.99,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,11,DUQ,"Verde Energy USA, Inc.",6.49,6.0,0.0,0.0,0.0,2020-11-01,7.11,Below
+WattBuy,2020,12,DUQ,AEP Energy,6.89,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,CleanSky Energy,5.4,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,Respond Power LLC,6.5,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Respond Power LLC,6.4,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,SmartEnergy,6.2,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Star Energy Partners LLC,6.49,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2020-12-01,6.61,Above
+WattBuy,2020,12,DUQ,Sunrise Power and Gas,6.54,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Sunrise Power and Gas,6.24,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,Sunrise Power and Gas,6.04,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,"Verde Energy USA, Inc.",6.49,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2020,12,DUQ,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-12-01,6.61,Below
+WattBuy,2021,1,DUQ,AEP Energy,6.89,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,Brighten Energy,6.79,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,CleanSky Energy,5.4,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,CleanSky Energy,5.9,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Discount Power Inc.,7.59,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,SmartEnergy,6.2,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,Star Energy Partners LLC,6.49,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,1,DUQ,Sunrise Power and Gas,6.04,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,Sunrise Power and Gas,6.24,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2021-01-01,6.61,Below
+WattBuy,2021,1,DUQ,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2021-01-01,6.61,Above
+WattBuy,2021,2,DUQ,AEP Energy,6.89,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,AEP Energy,7.69,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,Brighten Energy,6.79,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,CleanSky Energy,5.9,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Energy Harbor LLC,6.59,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,SmartEnergy,6.2,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,SmartEnergy,7.7,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,"Spark Energy, LLC",6.89,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,"Spark Energy, LLC",7.29,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,Sunrise Power and Gas,6.04,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,Sunrise Power and Gas,6.24,6.0,0.0,0.0,0.0,2021-02-01,6.61,Below
+WattBuy,2021,2,DUQ,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,"Verde Energy USA, Inc.",7.09,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,2,DUQ,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2021-02-01,6.61,Above
+WattBuy,2021,3,DUQ,AEP Energy,7.69,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Better Buy Energy,6.79,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Brighten Energy,6.79,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Brighten Energy,7.19,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,CleanSky Energy,5.9,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Dynegy,6.99,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Energy Harbor LLC,6.59,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Frontier Utilities Northeast LLC,5.9,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Great American Power,7.69,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Great American Power,5.39,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Great American Power,7.99,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,"IDT Energy, Inc.",7.47,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Inspire,5.99,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Inspire,6.79,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Residents Energy LLC,7.1,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,SmartEnergy,7.7,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,SmartEnergy,8.4,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,"Spark Energy, LLC",7.29,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,"Spark Energy, LLC",6.69,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,Sunrise Power and Gas,6.04,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Sunrise Power and Gas,6.24,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Sunrise Power and Gas,6.44,6.0,0.0,0.0,0.0,2021-03-01,6.61,Below
+WattBuy,2021,3,DUQ,Sunrise Power and Gas,6.64,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,3,DUQ,"Verde Energy USA, Inc.",7.19,6.0,0.0,0.0,0.0,2021-03-01,6.61,Above
+WattBuy,2021,4,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Better Buy Energy,6.79,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Brighten Energy,7.19,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Dynegy,6.99,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Energy Harbor LLC,6.59,6.0,0.0,0.0,0.0,2021-04-01,6.61,Below
+WattBuy,2021,4,DUQ,Frontier Utilities Northeast LLC,5.9,6.0,0.0,0.0,0.0,2021-04-01,6.61,Below
+WattBuy,2021,4,DUQ,"IDT Energy, Inc.",7.47,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,"IDT Energy, Inc.",7.52,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Inspire,6.79,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Residents Energy LLC,7.1,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Residents Energy LLC,7.39,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,SmartEnergy,8.4,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,SmartEnergy,8.18,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,"Spark Energy, LLC",7.29,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,"Spark Energy, LLC",7.59,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,Sunrise Power and Gas,6.54,6.0,0.0,0.0,0.0,2021-04-01,6.61,Below
+WattBuy,2021,4,DUQ,Sunrise Power and Gas,6.74,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,4,DUQ,"Verde Energy USA, Inc.",7.19,6.0,0.0,0.0,0.0,2021-04-01,6.61,Above
+WattBuy,2021,5,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Better Buy Energy,6.79,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Brighten Energy,7.19,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Brighten Energy,7.79,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,CleanSky Energy,7.99,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Dynegy,6.99,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Dynegy,7.39,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Energy Harbor LLC,7.09,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Frontier Utilities Northeast LLC,5.9,6.0,0.0,0.0,0.0,2021-05-01,6.61,Below
+WattBuy,2021,5,DUQ,Frontier Utilities Northeast LLC,6.49,6.0,0.0,0.0,0.0,2021-05-01,6.61,Below
+WattBuy,2021,5,DUQ,"IDT Energy, Inc.",7.52,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,"IDT Energy, Inc.",7.77,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Inspire,6.79,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Major Energy,7.7,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Residents Energy LLC,7.39,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Residents Energy LLC,7.58,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,SmartEnergy,8.18,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,SmartEnergy,8.4,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,"Spark Energy, LLC",7.59,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,"Spark Energy, LLC",7.99,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,"Spark Energy, LLC",8.19,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Starion Energy,6.69,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Starion Energy,6.99,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Starion Energy,6.89,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Starion Energy,7.19,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Sunrise Power and Gas,6.54,6.0,0.0,0.0,0.0,2021-05-01,6.61,Below
+WattBuy,2021,5,DUQ,Sunrise Power and Gas,6.74,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Sunrise Power and Gas,6.84,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,Sunrise Power and Gas,6.94,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,"Verde Energy USA, Inc.",7.19,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,5,DUQ,"Verde Energy USA, Inc.",8.19,6.0,0.0,0.0,0.0,2021-05-01,6.61,Above
+WattBuy,2021,6,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Brighten Energy,7.79,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,CleanSky Energy,7.99,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,CleanSky Energy,8.39,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Dynegy,7.39,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Energy Harbor LLC,7.09,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Frontier Utilities Northeast LLC,6.49,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Frontier Utilities Northeast LLC,6.59,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Great American Power,6.49,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Great American Power,9.09,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"IDT Energy, Inc.",7.77,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"IDT Energy, Inc.",8.24,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Inspire,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Major Energy,7.7,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Major Energy,7.8,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,National Gas & Electric,7.19,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,National Gas & Electric,7.79,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Residents Energy LLC,7.58,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Residents Energy LLC,7.98,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,SmartEnergy,8.4,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,SmartEnergy,8.9,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"Spark Energy, LLC",8.19,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"Spark Energy, LLC",8.29,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"Spark Energy, LLC",8.39,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Sunrise Power and Gas,6.84,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Sunrise Power and Gas,6.94,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Below
+WattBuy,2021,6,DUQ,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Sunrise Power and Gas,7.14,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Sunrise Power and Gas,7.24,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,Sunrise Power and Gas,7.34,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"Verde Energy USA, Inc.",8.19,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,6,DUQ,"Verde Energy USA, Inc.",8.39,6.0,0.0,0.0,0.0,2021-06-01,6.9833,Above
+WattBuy,2021,7,DUQ,"AP Gas & Electric (PA), LLC",7.015,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,CleanSky Energy,8.39,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,CleanSky Energy,8.25,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Energy Harbor LLC,8.15,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Frontier Utilities Northeast LLC,6.59,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Below
+WattBuy,2021,7,DUQ,Great American Power,6.49,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Below
+WattBuy,2021,7,DUQ,Great American Power,9.09,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,"IDT Energy, Inc.",8.24,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,"IDT Energy, Inc.",8.51,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Inspire,6.79,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Below
+WattBuy,2021,7,DUQ,Major Energy,8.06,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,National Gas & Electric,7.79,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Residents Energy LLC,7.98,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Residents Energy LLC,8.36,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,SmartEnergy,8.9,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,SmartEnergy,9.6,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,"Spark Energy, LLC",8.59,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,"Spark Energy, LLC",8.69,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Below
+WattBuy,2021,7,DUQ,Sunrise Power and Gas,7.24,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Sunrise Power and Gas,7.34,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Sunrise Power and Gas,7.44,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,Sunrise Power and Gas,7.84,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2021,7,DUQ,"Verde Energy USA, Inc.",8.64,6.0,0.0,0.0,0.0,2021-07-01,6.9833,Above
+WattBuy,2020,2,METED,AEP Energy,5.1499999999999995,6.0,0.0,0.0,0.0,2020-02-01,5.95,Below
+WattBuy,2020,2,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-02-01,5.95,Below
+WattBuy,2020,2,METED,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-02-01,5.95,Above
+WattBuy,2020,2,METED,Town Square Energy,5.19,6.0,0.0,0.0,0.0,2020-02-01,5.95,Below
+WattBuy,2020,2,METED,"Verde Energy USA, Inc.",5.6899999999999995,6.0,0.0,0.0,0.0,2020-02-01,5.95,Below
+WattBuy,2020,3,METED,AEP Energy,5.1499999999999995,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,AEP Energy,4.99,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,Shipley Energy,4.75,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-03-01,5.39,Above
+WattBuy,2020,3,METED,Titan Gas and Power,4.89,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,Titan Gas and Power,4.79,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,Titan Gas and Power,4.590000000000001,6.0,0.0,0.0,0.0,2020-03-01,5.39,Below
+WattBuy,2020,3,METED,"Verde Energy USA, Inc.",5.6899999999999995,6.0,0.0,0.0,0.0,2020-03-01,5.39,Above
+WattBuy,2020,4,METED,AEP Energy,4.99,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,AEP Energy,4.6899999999999995,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,Respond Power LLC,5.48,6.0,0.0,0.0,0.0,2020-04-01,5.39,Above
+WattBuy,2020,4,METED,Shipley Energy,4.75,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-04-01,5.39,Above
+WattBuy,2020,4,METED,Titan Gas and Power,4.590000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,Titan Gas and Power,4.49,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,Titan Gas and Power,4.3999999999999995,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,4,METED,"Verde Energy USA, Inc.",5.6899999999999995,6.0,0.0,0.0,0.0,2020-04-01,5.39,Above
+WattBuy,2020,4,METED,"Verde Energy USA, Inc.",5.19,6.0,0.0,0.0,0.0,2020-04-01,5.39,Below
+WattBuy,2020,5,METED,AEP Energy,4.6899999999999995,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,AEP Energy,4.99,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,AEP Energy,4.89,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,Better Buy Energy,5.19,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,Great American Power,6.1899999999999995,6.0,0.0,0.0,0.0,2020-05-01,5.39,Above
+WattBuy,2020,5,METED,Respond Power LLC,5.48,6.0,0.0,0.0,0.0,2020-05-01,5.39,Above
+WattBuy,2020,5,METED,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-05-01,5.39,Above
+WattBuy,2020,5,METED,SmartEnergy,6.800000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.39,Above
+WattBuy,2020,5,METED,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,Titan Gas and Power,4.37,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,Titan Gas and Power,4.29,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,Titan Gas and Power,4.19,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,5,METED,"Verde Energy USA, Inc.",5.19,6.0,0.0,0.0,0.0,2020-05-01,5.39,Below
+WattBuy,2020,7,METED,AEP Energy,4.99,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,AEP Energy,5.19,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,Better Buy Energy,5.19,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,Direct Energy,5.390000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Direct Energy,5.489999999999999,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Discount Power Inc.,6.59,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Discount Power Inc.,7.19,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Discount Power Inc.,7.04,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Great American Power,6.1899999999999995,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Inspire,5.390000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Respond Power LLC,5.48,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,SmartEnergy,6.800000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,SmartEnergy,6.6000000000000005,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,7,METED,Titan Gas and Power,5.0,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,Titan Gas and Power,4.19,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,"Verde Energy USA, Inc.",5.19,6.0,0.0,0.0,0.0,2020-07-01,5.361,Below
+WattBuy,2020,7,METED,"Verde Energy USA, Inc.",5.489999999999999,6.0,0.0,0.0,0.0,2020-07-01,5.361,Above
+WattBuy,2020,8,METED,AEP Energy,5.19,6.0,0.0,0.0,0.0,2020-08-01,5.39,Below
+WattBuy,2020,8,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-08-01,5.39,Below
+WattBuy,2020,8,METED,Better Buy Energy,5.19,6.0,0.0,0.0,0.0,2020-08-01,5.39,Below
+WattBuy,2020,8,METED,Direct Energy,5.489999999999999,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Discount Power Inc.,6.59,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Discount Power Inc.,7.19,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Discount Power Inc.,7.04,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Great American Power,6.1899999999999995,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Inspire,5.390000000000001,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Respond Power LLC,5.48,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Respond Power LLC,5.779999999999999,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,SmartEnergy,6.6000000000000005,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,Titan Gas and Power,4.19,6.0,0.0,0.0,0.0,2020-08-01,5.39,Below
+WattBuy,2020,8,METED,Titan Gas and Power,4.09,6.0,0.0,0.0,0.0,2020-08-01,5.39,Below
+WattBuy,2020,8,METED,"Verde Energy USA, Inc.",5.489999999999999,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,8,METED,"Verde Energy USA, Inc.",5.79,6.0,0.0,0.0,0.0,2020-08-01,5.39,Above
+WattBuy,2020,9,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-09-01,5.76,Below
+WattBuy,2020,9,METED,CleanSky Energy,4.09,6.0,0.0,0.0,0.0,2020-09-01,5.76,Below
+WattBuy,2020,9,METED,Discount Power Inc.,6.59,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Discount Power Inc.,7.19,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Discount Power Inc.,7.04,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Discount Power Inc.,8.39,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Energy Harbor LLC,5.79,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2020-09-01,5.76,Below
+WattBuy,2020,9,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2020-09-01,5.76,Below
+WattBuy,2020,9,METED,Respond Power LLC,5.78,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Respond Power LLC,6.15,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,SmartEnergy,7.4,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,9,METED,"Verde Energy USA, Inc.",5.79,6.0,0.0,0.0,0.0,2020-09-01,5.76,Above
+WattBuy,2020,10,METED,AEP Energy,5.99,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,"AP Gas & Electric (PA), LLC",5.34,6.0,0.0,0.0,0.0,2020-10-01,5.76,Below
+WattBuy,2020,10,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,CleanSky Energy,4.09,6.0,0.0,0.0,0.0,2020-10-01,5.76,Below
+WattBuy,2020,10,METED,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Discount Power Inc.,8.39,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Discount Power Inc.,7.99,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Energy Harbor LLC,5.79,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2020-10-01,5.76,Below
+WattBuy,2020,10,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2020-10-01,5.76,Below
+WattBuy,2020,10,METED,Respond Power LLC,6.15,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Respond Power LLC,6.22,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,"Verde Energy USA, Inc.",5.79,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,10,METED,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-10-01,5.76,Above
+WattBuy,2020,11,METED,AEP Energy,5.99,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,AEP Energy,6.49,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,CleanSky Energy,4.09,6.0,0.0,0.0,0.0,2020-11-01,5.76,Below
+WattBuy,2020,11,METED,CleanSky Energy,4.99,6.0,0.0,0.0,0.0,2020-11-01,5.76,Below
+WattBuy,2020,11,METED,Discount Power Inc.,7.99,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2020-11-01,5.76,Below
+WattBuy,2020,11,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2020-11-01,5.76,Below
+WattBuy,2020,11,METED,Respond Power LLC,6.22,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,Respond Power LLC,6.39,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,Respond Power LLC,6.09,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,SmartEnergy,7.3,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,11,METED,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2020-11-01,5.76,Above
+WattBuy,2020,12,METED,AEP Energy,6.49,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,AEP Energy,6.15,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,CleanSky Energy,4.99,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,Discount Power Inc.,7.59,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,Respond Power LLC,6.09,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,Respond Power LLC,5.89,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,SmartEnergy,6.6,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,Star Energy Partners LLC,6.49,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2020-12-01,6.17,Above
+WattBuy,2020,12,METED,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2020,12,METED,"Verde Energy USA, Inc.",5.89,6.0,0.0,0.0,0.0,2020-12-01,6.17,Below
+WattBuy,2021,1,METED,AEP Energy,6.15,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Better Buy Energy,5.59,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,Brighten Energy,5.89,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,CleanSky Energy,4.99,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,CleanSky Energy,4.9,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,Discount Power Inc.,7.59,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Discount Power Inc.,7.19,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Dynegy,5.79,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,Energy Harbor LLC,6.43,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,Major Energy,5.88,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,SmartEnergy,6.6,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Star Energy Partners LLC,6.49,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,1,METED,"Verde Energy USA, Inc.",5.89,6.0,0.0,0.0,0.0,2021-01-01,6.17,Below
+WattBuy,2021,1,METED,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2021-01-01,6.17,Above
+WattBuy,2021,2,METED,AEP Energy,6.15,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,AEP Energy,6.35,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Better Buy Energy,5.59,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,Brighten Energy,5.89,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,CleanSky Energy,4.9,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Dynegy,5.79,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,Energy Harbor LLC,6.43,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Energy Harbor LLC,6.52,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,Major Energy,5.88,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,Major Energy,6.18,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Major Energy,6.39,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2021-02-01,6.17,Below
+WattBuy,2021,2,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,SmartEnergy,7.9,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,2,METED,"Verde Energy USA, Inc.",6.49,6.0,0.0,0.0,0.0,2021-02-01,6.17,Above
+WattBuy,2021,3,METED,AEP Energy,6.35,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,AEP Energy,6.15,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Better Buy Energy,5.59,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Brighten Energy,5.89,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Brighten Energy,6.29,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,CleanSky Energy,4.9,6.0,0.0,0.0,0.0,2021-03-01,5.418,Below
+WattBuy,2021,3,METED,CleanSky Energy,6.01,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Dynegy,5.79,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Dynegy,6.09,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Energy Harbor LLC,6.52,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Great American Power,6.19,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,"IDT Energy, Inc.",7.25,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Inspire,5.39,6.0,0.0,0.0,0.0,2021-03-01,5.418,Below
+WattBuy,2021,3,METED,Inspire,5.79,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Liberty Power,6.68,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Major Energy,6.39,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Major Energy,6.09,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Residents Energy LLC,6.58,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,SmartEnergy,7.9,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,"Verde Energy USA, Inc.",6.49,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,3,METED,"Verde Energy USA, Inc.",6.09,6.0,0.0,0.0,0.0,2021-03-01,5.418,Above
+WattBuy,2021,4,METED,AEP Energy,6.15,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,AEP Energy,6.3,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Brighten Energy,6.29,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,CleanSky Energy,6.01,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Discount Power Inc.,7.69,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Dynegy,6.09,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Energy Harbor LLC,6.52,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,"IDT Energy, Inc.",7.25,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,"IDT Energy, Inc.",7.2,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Inspire,5.79,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Liberty Power,6.68,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Liberty Power,6.49,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Liberty Power,6.79,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Major Energy,6.09,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Major Energy,6.18,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Residents Energy LLC,6.58,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Residents Energy LLC,6.42,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,SmartEnergy,9.0,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,"Verde Energy USA, Inc.",6.09,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,4,METED,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2021-04-01,5.418,Above
+WattBuy,2021,5,METED,AEP Energy,6.3,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,AEP Energy,6.65,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Brighten Energy,6.29,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Brighten Energy,6.59,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,CleanSky Energy,6.01,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,CleanSky Energy,6.99,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Discount Power Inc.,7.69,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Dynegy,6.09,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Dynegy,6.19,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Energy Harbor LLC,6.99,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,"IDT Energy, Inc.",7.2,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,"IDT Energy, Inc.",7.19,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Inspire,5.79,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Liberty Power,6.49,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Liberty Power,6.79,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Liberty Power,6.86,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Major Energy,6.18,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Major Energy,6.48,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Major Energy,6.99,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Residents Energy LLC,6.42,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Residents Energy LLC,6.29,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,SmartEnergy,9.0,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,SmartEnergy,9.5,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Starion Energy,6.59,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Starion Energy,6.79,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,Starion Energy,7.09,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,"Verde Energy USA, Inc.",6.79,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,5,METED,"Verde Energy USA, Inc.",7.09,6.0,0.0,0.0,0.0,2021-05-01,5.418,Above
+WattBuy,2021,6,METED,AEP Energy,6.65,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,AEP Energy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,AEP Energy,6.8,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Better Buy Energy,6.09,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Brighten Energy,6.59,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,CleanSky Energy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Discount Power Inc.,7.69,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Dynegy,6.19,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Energy Harbor LLC,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,"IDT Energy, Inc.",7.19,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,"IDT Energy, Inc.",7.63,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Inspire,5.79,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Liberty Power,6.49,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Liberty Power,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Liberty Power,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Major Energy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Major Energy,6.82,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Major Energy,7.04,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,National Gas & Electric,5.59,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,National Gas & Electric,7.39,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Residents Energy LLC,6.29,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Shipley Energy,6.59,6.0,0.0,0.0,0.0,2021-06-01,6.69,Below
+WattBuy,2021,6,METED,Shipley Energy,7.99,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,SmartEnergy,9.5,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,SmartEnergy,9.8,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,"Verde Energy USA, Inc.",7.09,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,"Verde Energy USA, Inc.",6.93,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,6,METED,"Verde Energy USA, Inc.",7.17,6.0,0.0,0.0,0.0,2021-06-01,6.69,Above
+WattBuy,2021,7,METED,"AP Gas & Electric (PA), LLC",6.439,6.0,0.0,0.0,0.0,2021-07-01,6.69,Below
+WattBuy,2021,7,METED,CleanSky Energy,6.99,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Discount Power Inc.,7.69,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Energy Harbor LLC,8.45,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,"IDT Energy, Inc.",7.63,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,"IDT Energy, Inc.",7.83,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Inspire,5.79,6.0,0.0,0.0,0.0,2021-07-01,6.69,Below
+WattBuy,2021,7,METED,Liberty Power,6.99,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Liberty Power,7.29,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Major Energy,7.14,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Major Energy,7.24,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,National Gas & Electric,7.39,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-07-01,6.69,Below
+WattBuy,2021,7,METED,Residents Energy LLC,7.09,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,SmartEnergy,9.8,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,SmartEnergy,9.9,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2021,7,METED,"Verde Energy USA, Inc.",7.27,6.0,0.0,0.0,0.0,2021-07-01,6.69,Above
+WattBuy,2020,2,PENELEC,AEP Energy,4.99,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Below
+WattBuy,2020,2,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Below
+WattBuy,2020,2,PENELEC,Nittany Energy LLC,6.09,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Above
+WattBuy,2020,2,PENELEC,Nittany Energy LLC,6.25,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Above
+WattBuy,2020,2,PENELEC,SmartEnergy,6.6000000000000005,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Above
+WattBuy,2020,2,PENELEC,Town Square Energy,5.27,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Below
+WattBuy,2020,2,PENELEC,Town Square Energy,5.88,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Below
+WattBuy,2020,2,PENELEC,"Verde Energy USA, Inc.",5.79,6.0,0.0,0.0,0.0,2020-02-01,5.9245,Below
+WattBuy,2020,3,PENELEC,AEP Energy,4.99,6.0,0.0,0.0,0.0,2020-03-01,5.404,Below
+WattBuy,2020,3,PENELEC,AEP Energy,4.89,6.0,0.0,0.0,0.0,2020-03-01,5.404,Below
+WattBuy,2020,3,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-03-01,5.404,Below
+WattBuy,2020,3,PENELEC,Nittany Energy LLC,6.09,6.0,0.0,0.0,0.0,2020-03-01,5.404,Above
+WattBuy,2020,3,PENELEC,Nittany Energy LLC,6.25,6.0,0.0,0.0,0.0,2020-03-01,5.404,Above
+WattBuy,2020,3,PENELEC,SmartEnergy,6.6000000000000005,6.0,0.0,0.0,0.0,2020-03-01,5.404,Above
+WattBuy,2020,3,PENELEC,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-03-01,5.404,Above
+WattBuy,2020,3,PENELEC,Titan Gas and Power,4.8,6.0,0.0,0.0,0.0,2020-03-01,5.404,Below
+WattBuy,2020,3,PENELEC,Titan Gas and Power,4.79,6.0,0.0,0.0,0.0,2020-03-01,5.404,Below
+WattBuy,2020,3,PENELEC,Titan Gas and Power,4.590000000000001,6.0,0.0,0.0,0.0,2020-03-01,5.404,Below
+WattBuy,2020,3,PENELEC,"Verde Energy USA, Inc.",5.79,6.0,0.0,0.0,0.0,2020-03-01,5.404,Above
+WattBuy,2020,4,PENELEC,AEP Energy,4.89,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,Nittany Energy LLC,6.09,6.0,0.0,0.0,0.0,2020-04-01,5.404,Above
+WattBuy,2020,4,PENELEC,Nittany Energy LLC,6.25,6.0,0.0,0.0,0.0,2020-04-01,5.404,Above
+WattBuy,2020,4,PENELEC,Respond Power LLC,5.680000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.404,Above
+WattBuy,2020,4,PENELEC,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-04-01,5.404,Above
+WattBuy,2020,4,PENELEC,Titan Gas and Power,4.590000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,Titan Gas and Power,4.49,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,Titan Gas and Power,4.3999999999999995,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-04-01,5.404,Below
+WattBuy,2020,4,PENELEC,"Verde Energy USA, Inc.",5.79,6.0,0.0,0.0,0.0,2020-04-01,5.404,Above
+WattBuy,2020,4,PENELEC,"Verde Energy USA, Inc.",5.489999999999999,6.0,0.0,0.0,0.0,2020-04-01,5.404,Above
+WattBuy,2020,5,PENELEC,AEP Energy,4.590000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,AEP Energy,4.95,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,AEP Energy,4.8500000000000005,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,Better Buy Energy,4.99,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,Great American Power,6.1899999999999995,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,5,PENELEC,Nittany Energy LLC,6.09,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,5,PENELEC,Nittany Energy LLC,6.25,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,5,PENELEC,Respond Power LLC,5.680000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,5,PENELEC,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,5,PENELEC,SmartEnergy,6.7,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,5,PENELEC,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,Titan Gas and Power,4.29,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,Titan Gas and Power,4.19,6.0,0.0,0.0,0.0,2020-05-01,5.404,Below
+WattBuy,2020,5,PENELEC,"Verde Energy USA, Inc.",5.489999999999999,6.0,0.0,0.0,0.0,2020-05-01,5.404,Above
+WattBuy,2020,7,PENELEC,AEP Energy,4.95,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,AEP Energy,4.8500000000000005,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,Better Buy Energy,4.99,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,Direct Energy,5.489999999999999,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,Discount Power Inc.,6.4399999999999995,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Discount Power Inc.,7.24,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Discount Power Inc.,7.140000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Great American Power,6.1899999999999995,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Inspire,5.59,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Respond Power LLC,5.680000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,SmartEnergy,7.000000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,SmartEnergy,6.800000000000001,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,7,PENELEC,Titan Gas and Power,5.0,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,Titan Gas and Power,3.9899999999999998,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,"Verde Energy USA, Inc.",5.489999999999999,6.0,0.0,0.0,0.0,2020-07-01,5.532,Below
+WattBuy,2020,7,PENELEC,"Verde Energy USA, Inc.",5.6899999999999995,6.0,0.0,0.0,0.0,2020-07-01,5.532,Above
+WattBuy,2020,8,PENELEC,AEP Energy,4.95,6.0,0.0,0.0,0.0,2020-08-01,5.404,Below
+WattBuy,2020,8,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-08-01,5.404,Below
+WattBuy,2020,8,PENELEC,Better Buy Energy,4.99,6.0,0.0,0.0,0.0,2020-08-01,5.404,Below
+WattBuy,2020,8,PENELEC,Direct Energy,5.489999999999999,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Discount Power Inc.,6.4399999999999995,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Discount Power Inc.,7.24,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Discount Power Inc.,7.140000000000001,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Great American Power,6.1899999999999995,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Inspire,5.489999999999999,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Respond Power LLC,5.680000000000001,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Respond Power LLC,5.88,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,SmartEnergy,6.800000000000001,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,Titan Gas and Power,3.9899999999999998,6.0,0.0,0.0,0.0,2020-08-01,5.404,Below
+WattBuy,2020,8,PENELEC,"Verde Energy USA, Inc.",5.6899999999999995,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,8,PENELEC,"Verde Energy USA, Inc.",5.89,6.0,0.0,0.0,0.0,2020-08-01,5.404,Above
+WattBuy,2020,9,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,CleanSky Energy,4.0,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Discount Power Inc.,6.44,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Discount Power Inc.,7.24,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Discount Power Inc.,7.14,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Discount Power Inc.,8.09,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Discount Power Inc.,7.99,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Energy Harbor LLC,5.69,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Respond Power LLC,5.88,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Respond Power LLC,6.29,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,SmartEnergy,7.4,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,9,PENELEC,"Verde Energy USA, Inc.",5.89,6.0,0.0,0.0,0.0,2020-09-01,0.598,Above
+WattBuy,2020,10,PENELEC,AEP Energy,5.74,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,"AP Gas & Electric (PA), LLC",5.28,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,CleanSky Energy,4.0,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Discount Power Inc.,8.09,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Discount Power Inc.,7.99,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Energy Harbor LLC,5.69,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Energy Harbor LLC,6.39,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Energy Harbor LLC,5.98,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Respond Power LLC,6.29,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Starion Energy,5.99,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Starion Energy,6.29,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,"Verde Energy USA, Inc.",5.89,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,10,PENELEC,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2020-10-01,0.598,Above
+WattBuy,2020,11,PENELEC,AEP Energy,5.74,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,AEP Energy,6.19,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,CleanSky Energy,4.0,6.0,0.0,0.0,0.0,2020-11-01,5.598,Below
+WattBuy,2020,11,PENELEC,CleanSky Energy,5.5,6.0,0.0,0.0,0.0,2020-11-01,5.598,Below
+WattBuy,2020,11,PENELEC,Discount Power Inc.,8.29,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Energy Harbor LLC,5.98,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2020-11-01,5.598,Below
+WattBuy,2020,11,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Respond Power LLC,6.29,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Respond Power LLC,6.09,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,SmartEnergy,7.1,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,SmartEnergy,7.3,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,"Verde Energy USA, Inc.",6.19,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,11,PENELEC,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-11-01,5.598,Above
+WattBuy,2020,12,PENELEC,AEP Energy,6.19,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,AEP Energy,5.95,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,CleanSky Energy,5.5,6.0,0.0,0.0,0.0,2020-12-01,5.667,Below
+WattBuy,2020,12,PENELEC,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Energy Harbor LLC,5.98,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2020-12-01,5.667,Below
+WattBuy,2020,12,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Respond Power LLC,6.09,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,SmartEnergy,6.5,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Star Energy Partners LLC,6.19,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2020,12,PENELEC,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2020-12-01,5.667,Above
+WattBuy,2021,1,PENELEC,AEP Energy,5.95,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Better Buy Energy,5.39,6.0,0.0,0.0,0.0,2021-01-01,5.667,Below
+WattBuy,2021,1,PENELEC,Brighten Energy,5.69,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,CleanSky Energy,5.5,6.0,0.0,0.0,0.0,2021-01-01,5.667,Below
+WattBuy,2021,1,PENELEC,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Discount Power Inc.,7.09,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Dynegy,5.59,6.0,0.0,0.0,0.0,2021-01-01,5.667,Below
+WattBuy,2021,1,PENELEC,Energy Harbor LLC,5.98,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-01-01,5.667,Below
+WattBuy,2021,1,PENELEC,Major Energy,6.09,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Major Energy,6.19,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,SmartEnergy,6.5,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Star Energy Partners LLC,6.19,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,"Verde Energy USA, Inc.",5.99,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,1,PENELEC,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2021-01-01,5.667,Above
+WattBuy,2021,2,PENELEC,AEP Energy,5.95,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,AEP Energy,6.2,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Better Buy Energy,5.39,6.0,0.0,0.0,0.0,2021-02-01,5.667,Below
+WattBuy,2021,2,PENELEC,Brighten Energy,5.69,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,CleanSky Energy,5.5,6.0,0.0,0.0,0.0,2021-02-01,5.667,Below
+WattBuy,2021,2,PENELEC,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Dynegy,5.59,6.0,0.0,0.0,0.0,2021-02-01,5.667,Below
+WattBuy,2021,2,PENELEC,Energy Harbor LLC,5.98,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-02-01,5.667,Below
+WattBuy,2021,2,PENELEC,Major Energy,6.19,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Major Energy,6.18,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Major Energy,6.49,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,SmartEnergy,6.9,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,"Verde Energy USA, Inc.",6.29,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,2,PENELEC,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2021-02-01,5.667,Above
+WattBuy,2021,3,PENELEC,AEP Energy,6.2,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Better Buy Energy,5.39,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Brighten Energy,5.69,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Brighten Energy,6.09,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,CleanSky Energy,5.5,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Dynegy,5.59,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Dynegy,5.89,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Great American Power,6.19,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,"IDT Energy, Inc.",7.14,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Liberty Power,6.48,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Major Energy,6.49,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Major Energy,6.39,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,"Verde Energy USA, Inc.",6.49,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,3,PENELEC,"Verde Energy USA, Inc.",6.45,6.0,0.0,0.0,0.0,2021-03-01,0.981,Above
+WattBuy,2021,4,PENELEC,AEP Energy,6.2,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,AEP Energy,6.35,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Brighten Energy,6.09,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Discount Power Inc.,7.79,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Discount Power Inc.,6.99,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Dynegy,5.89,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,"IDT Energy, Inc.",7.14,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,"IDT Energy, Inc.",7.65,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Liberty Power,6.48,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Liberty Power,6.49,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Major Energy,6.49,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Major Energy,6.69,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Residents Energy LLC,6.78,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,SmartEnergy,9.1,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,"Verde Energy USA, Inc.",6.45,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,4,PENELEC,"Verde Energy USA, Inc.",6.69,6.0,0.0,0.0,0.0,2021-04-01,0.981,Above
+WattBuy,2021,5,PENELEC,AEP Energy,6.35,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,AEP Energy,6.59,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Brighten Energy,6.09,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Brighten Energy,6.19,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,CleanSky Energy,8.49,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Dynegy,5.89,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,"IDT Energy, Inc.",7.65,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,"IDT Energy, Inc.",7.25,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Liberty Power,6.49,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Liberty Power,6.69,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Major Energy,6.69,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Major Energy,6.99,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Major Energy,7.39,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Residents Energy LLC,6.78,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,SmartEnergy,9.1,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,SmartEnergy,9.7,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Starion Energy,6.49,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Starion Energy,6.79,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Starion Energy,7.19,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,Starion Energy,7.49,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,"Verde Energy USA, Inc.",6.69,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,"Verde Energy USA, Inc.",6.99,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,5,PENELEC,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2021-05-01,0.981,Above
+WattBuy,2021,6,PENELEC,AEP Energy,6.59,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,AEP Energy,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,AEP Energy,6.69,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-06-01,6.462,Below
+WattBuy,2021,6,PENELEC,Better Buy Energy,5.79,6.0,0.0,0.0,0.0,2021-06-01,6.462,Below
+WattBuy,2021,6,PENELEC,Brighten Energy,6.19,6.0,0.0,0.0,0.0,2021-06-01,6.462,Below
+WattBuy,2021,6,PENELEC,CleanSky Energy,8.49,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,CleanSky Energy,8.99,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Dynegy,5.89,6.0,0.0,0.0,0.0,2021-06-01,6.462,Below
+WattBuy,2021,6,PENELEC,Energy Harbor LLC,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,"IDT Energy, Inc.",7.25,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,"IDT Energy, Inc.",7.62,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-06-01,6.462,Below
+WattBuy,2021,6,PENELEC,Liberty Power,6.69,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Liberty Power,6.49,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Liberty Power,6.89,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Major Energy,7.39,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Major Energy,7.54,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,National Gas & Electric,5.79,6.0,0.0,0.0,0.0,2021-06-01,6.462,Below
+WattBuy,2021,6,PENELEC,National Gas & Electric,7.59,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Residents Energy LLC,6.68,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Residents Energy LLC,7.19,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,SmartEnergy,9.7,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,SmartEnergy,10.0,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,"Verde Energy USA, Inc.",7.49,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,6,PENELEC,"Verde Energy USA, Inc.",7.38,6.0,0.0,0.0,0.0,2021-06-01,6.462,Above
+WattBuy,2021,7,PENELEC,"AP Gas & Electric (PA), LLC",6.075,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,CleanSky Energy,8.99,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,CleanSky Energy,8.79,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Energy Harbor LLC,7.79,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,"IDT Energy, Inc.",7.62,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,"IDT Energy, Inc.",7.87,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Inspire,5.49,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Liberty Power,6.89,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Liberty Power,6.99,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Major Energy,7.79,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,National Gas & Electric,7.59,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Residents Energy LLC,7.19,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Residents Energy LLC,7.44,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,SmartEnergy,10.0,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,SmartEnergy,10.2,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,Star Energy Partners LLC,6.79,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,"Verde Energy USA, Inc.",7.65,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2021,7,PENELEC,"Verde Energy USA, Inc.",7.71,6.0,0.0,0.0,0.0,2021-07-01,0.462,Above
+WattBuy,2020,2,PPL,AEP Energy,5.8500000000000005,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Below
+WattBuy,2020,2,PPL,Frontier Utilities Northeast LLC,7.9,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Above
+WattBuy,2020,2,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Above
+WattBuy,2020,2,PPL,Nittany Energy LLC,7.290000000000001,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Above
+WattBuy,2020,2,PPL,Nittany Energy LLC,7.449999999999999,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Above
+WattBuy,2020,2,PPL,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Above
+WattBuy,2020,2,PPL,"Spark Energy, LLC",6.890000000000001,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Above
+WattBuy,2020,2,PPL,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2020-02-01,6.8365,Below
+WattBuy,2020,3,PPL,AEP Energy,5.8500000000000005,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,3,PPL,AEP Energy,5.83,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,3,PPL,Frontier Utilities Northeast LLC,7.9,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,Nittany Energy LLC,7.290000000000001,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,Nittany Energy LLC,7.449999999999999,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,Shipley Energy,5.6899999999999995,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,3,PPL,Shipley Energy,5.19,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,3,PPL,SmartEnergy,7.8,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,SmartEnergy,8.200000000000001,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,"Spark Energy, LLC",6.890000000000001,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,"Spark Energy, LLC",6.99,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Above
+WattBuy,2020,3,PPL,Titan Gas and Power,5.29,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,3,PPL,Titan Gas and Power,5.18,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,3,PPL,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2020-03-01,6.8365,Below
+WattBuy,2020,4,PPL,AEP Energy,5.83,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,Frontier Utilities Northeast LLC,7.9,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Above
+WattBuy,2020,4,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Above
+WattBuy,2020,4,PPL,Nittany Energy LLC,7.290000000000001,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Above
+WattBuy,2020,4,PPL,Nittany Energy LLC,7.449999999999999,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Above
+WattBuy,2020,4,PPL,Shipley Energy,5.19,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,SmartEnergy,8.200000000000001,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Above
+WattBuy,2020,4,PPL,"Spark Energy, LLC",6.99,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Above
+WattBuy,2020,4,PPL,Titan Gas and Power,5.18,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,Titan Gas and Power,5.09,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,Titan Gas and Power,5.0,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,Titan Gas and Power,4.99,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,4,PPL,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-04-01,6.8365,Below
+WattBuy,2020,5,PPL,AEP Energy,5.83,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,AEP Energy,6.29,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,AEP Energy,6.1899999999999995,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Better Buy Energy,5.89,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Frontier Utilities Northeast LLC,7.9,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,Frontier Utilities Northeast LLC,4.9799999999999995,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,Nittany Energy LLC,7.290000000000001,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,Nittany Energy LLC,7.449999999999999,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,Shipley Energy,5.19,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,SmartEnergy,8.200000000000001,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,SmartEnergy,8.4,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Above
+WattBuy,2020,5,PPL,Titan Gas and Power,4.99,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Titan Gas and Power,4.9799999999999995,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Titan Gas and Power,4.97,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Titan Gas and Power,4.89,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,Titan Gas and Power,4.79,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,5,PPL,"Verde Energy USA, Inc.",6.39,6.0,0.0,0.0,0.0,2020-05-01,6.8365,Below
+WattBuy,2020,7,PPL,AEP Energy,6.59,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Better Buy Energy,5.89,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Direct Energy,6.29,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Direct Energy,6.59,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Discount Power Inc.,7.340000000000001,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Above
+WattBuy,2020,7,PPL,Discount Power Inc.,8.39,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Above
+WattBuy,2020,7,PPL,Frontier Utilities Northeast LLC,4.9799999999999995,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Frontier Utilities Northeast LLC,6.2,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Frontier Utilities Northeast LLC,6.1899999999999995,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Above
+WattBuy,2020,7,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Respond Power LLC,6.39,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,SmartEnergy,8.3,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Above
+WattBuy,2020,7,PPL,SmartEnergy,8.1,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Above
+WattBuy,2020,7,PPL,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Starion Energy,7.090000000000001,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Above
+WattBuy,2020,7,PPL,Titan Gas and Power,5.0,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Titan Gas and Power,4.590000000000001,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,"Verde Energy USA, Inc.",6.1899999999999995,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,7,PPL,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2020-07-01,7.0475,Below
+WattBuy,2020,8,PPL,AEP Energy,6.59,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,Better Buy Energy,5.89,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,Direct Energy,6.59,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,Discount Power Inc.,8.39,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,8,PPL,Frontier Utilities Northeast LLC,6.1899999999999995,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,8,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,8,PPL,Respond Power LLC,6.39,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,Respond Power LLC,6.69,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,SmartEnergy,8.1,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,8,PPL,SmartEnergy,8.4,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,8,PPL,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,Starion Energy,7.090000000000001,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,8,PPL,Titan Gas and Power,4.390000000000001,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,"Verde Energy USA, Inc.",6.59,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Below
+WattBuy,2020,8,PPL,"Verde Energy USA, Inc.",6.890000000000001,6.0,0.0,0.0,0.0,2020-08-01,6.8365,Above
+WattBuy,2020,9,PPL,CleanSky Energy,4.4,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Discount Power Inc.,8.39,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Discount Power Inc.,9.59,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Discount Power Inc.,9.49,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Energy Harbor LLC,7.59,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,National Gas & Electric,6.99,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Respond Power LLC,6.69,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Respond Power LLC,6.99,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,SmartEnergy,8.5,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Starion Energy,7.09,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Sunrise Power and Gas,6.24,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,9,PPL,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2020-09-01,4.0475,Above
+WattBuy,2020,10,PPL,AEP Energy,6.7,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,CleanSky Energy,4.4,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,CleanSky Energy,4.5,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Discount Power Inc.,9.59,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Discount Power Inc.,9.49,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Discount Power Inc.,9.79,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Energy Harbor LLC,7.59,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Energy Harbor LLC,7.19,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Energy Harbor LLC,6.89,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Respond Power LLC,6.99,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Respond Power LLC,7.09,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Respond Power LLC,7.39,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,SmartEnergy,8.2,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Starion Energy,6.79,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Starion Energy,7.09,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Sunrise Power and Gas,6.44,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,10,PPL,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2020-10-01,4.0475,Above
+WattBuy,2020,11,PPL,AEP Energy,6.7,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,AEP Energy,6.89,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,CleanSky Energy,4.5,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,CleanSky Energy,6.0,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,Discount Power Inc.,9.79,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Energy Harbor LLC,6.89,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,Respond Power LLC,7.39,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Respond Power LLC,7.49,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Respond Power LLC,7.29,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,SmartEnergy,8.2,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,Sunrise Power and Gas,6.44,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,11,PPL,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,"Verde Energy USA, Inc.",7.49,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Above
+WattBuy,2020,11,PPL,"Verde Energy USA, Inc.",6.99,6.0,0.0,0.0,0.0,2020-11-01,7.1373,Below
+WattBuy,2020,12,PPL,AEP Energy,6.89,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,AEP Energy,6.6,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,CleanSky Energy,6.0,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Energy Harbor LLC,6.89,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Respond Power LLC,7.29,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Respond Power LLC,7.19,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,SmartEnergy,7.6,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Star Energy Partners LLC,7.39,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Sunrise Power and Gas,6.44,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,Sunrise Power and Gas,7.44,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Above
+WattBuy,2020,12,PPL,"Verde Energy USA, Inc.",6.99,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2020,12,PPL,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2020-12-01,7.1373,Below
+WattBuy,2021,1,PPL,AEP Energy,6.6,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Better Buy Energy,5.99,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Brighten Energy,6.29,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,CleanSky Energy,6.0,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Discount Power Inc.,8.39,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Dynegy,6.19,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Energy Harbor LLC,6.89,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Major Energy,7.19,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,SmartEnergy,7.6,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,SmartEnergy,8.1,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Star Energy Partners LLC,7.39,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,Sunrise Power and Gas,7.44,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,1,PPL,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,"Verde Energy USA, Inc.",6.89,6.0,0.0,0.0,0.0,2021-01-01,7.064,Below
+WattBuy,2021,1,PPL,"Verde Energy USA, Inc.",7.19,6.0,0.0,0.0,0.0,2021-01-01,7.064,Above
+WattBuy,2021,2,PPL,AEP Energy,6.6,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Better Buy Energy,5.99,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Brighten Energy,6.29,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Brighten Energy,6.39,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,CleanSky Energy,6.0,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Dynegy,6.19,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Energy Harbor LLC,6.89,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Energy Harbor LLC,7.59,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Major Energy,7.19,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Major Energy,7.49,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,SmartEnergy,8.1,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,SmartEnergy,8.7,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2021-02-01,7.064,Below
+WattBuy,2021,2,PPL,"Verde Energy USA, Inc.",7.19,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,2,PPL,"Verde Energy USA, Inc.",7.59,6.0,0.0,0.0,0.0,2021-02-01,7.064,Above
+WattBuy,2021,3,PPL,AEP Energy,6.6,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,AEP Energy,7.05,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Better Buy Energy,5.99,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Better Buy Energy,6.19,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Brighten Energy,6.39,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Brighten Energy,6.49,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,CleanSky Energy,6.0,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Dynegy,6.19,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Dynegy,6.39,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Energy Harbor LLC,7.59,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Great American Power,7.39,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Liberty Power,7.39,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Liberty Power,7.59,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Major Energy,7.49,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Major Energy,7.19,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Major Energy,6.69,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Residents Energy LLC,6.98,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,SmartEnergy,8.7,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,SmartEnergy,9.6,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Sunrise Power and Gas,6.34,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,Sunrise Power and Gas,6.54,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,"Verde Energy USA, Inc.",7.59,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,3,PPL,"Verde Energy USA, Inc.",6.99,6.0,0.0,0.0,0.0,2021-03-01,0.218,Above
+WattBuy,2021,4,PPL,AEP Energy,7.05,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,AEP Energy,7.25,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,AEP Energy,6.45,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Brighten Energy,6.49,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Brighten Energy,6.59,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Discount Power Inc.,7.89,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Discount Power Inc.,8.59,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Energy Harbor LLC,7.59,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,"IDT Energy, Inc.",7.23,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Liberty Power,7.39,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Liberty Power,7.59,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Liberty Power,7.89,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Major Energy,6.69,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Major Energy,6.89,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Major Energy,6.59,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Residents Energy LLC,6.98,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Residents Energy LLC,6.99,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,SmartEnergy,9.6,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,SmartEnergy,10.5,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Sunrise Power and Gas,6.54,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,"Verde Energy USA, Inc.",6.99,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,"Verde Energy USA, Inc.",7.29,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,4,PPL,"Verde Energy USA, Inc.",7.09,6.0,0.0,0.0,0.0,2021-04-01,0.218,Above
+WattBuy,2021,5,PPL,AEP Energy,6.45,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,AEP Energy,6.65,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Brighten Energy,6.59,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Brighten Energy,6.99,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,CleanSky Energy,7.01,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,CleanSky Energy,6.99,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Energy Harbor LLC,7.88,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Frontier Utilities Northeast LLC,5.99,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,"IDT Energy, Inc.",7.23,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,"IDT Energy, Inc.",7.57,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Liberty Power,7.59,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Liberty Power,7.89,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Liberty Power,7.96,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Major Energy,6.59,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Major Energy,6.89,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Major Energy,7.59,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Residents Energy LLC,6.99,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Residents Energy LLC,7.38,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,SmartEnergy,10.5,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,SmartEnergy,11.0,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Starion Energy,7.39,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Starion Energy,7.29,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Starion Energy,7.59,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Sunrise Power and Gas,6.54,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Sunrise Power and Gas,7.04,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Sunrise Power and Gas,6.64,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Sunrise Power and Gas,7.14,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Sunrise Power and Gas,6.74,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,Sunrise Power and Gas,7.24,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,"Verde Energy USA, Inc.",7.09,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,"Verde Energy USA, Inc.",7.39,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,5,PPL,"Verde Energy USA, Inc.",8.09,6.0,0.0,0.0,0.0,2021-05-01,0.218,Above
+WattBuy,2021,6,PPL,AEP Energy,6.65,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,AEP Energy,7.79,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,AEP Energy,7.69,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Better Buy Energy,6.49,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Better Buy Energy,6.69,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Better Buy Energy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Brighten Energy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Brighten Energy,7.29,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Brighten Energy,7.59,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,CleanSky Energy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,CleanSky Energy,8.99,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Dynegy,6.69,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Dynegy,6.99,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Dynegy,7.09,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Energy Harbor LLC,7.88,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Frontier Utilities Northeast LLC,6.19,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Frontier Utilities Northeast LLC,6.79,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Frontier Utilities Northeast LLC,6.9,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Great American Power,4.89,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Great American Power,7.49,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,"IDT Energy, Inc.",7.57,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,"IDT Energy, Inc.",7.85,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Liberty Power,7.59,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Liberty Power,7.89,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Major Energy,7.59,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Major Energy,7.51,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,National Gas & Electric,7.09,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,National Gas & Electric,8.59,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Powervine Energy,4.89,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Powervine Energy,7.49,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Residents Energy LLC,7.38,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Residents Energy LLC,7.5,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,SmartEnergy,11.0,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,SmartEnergy,12.1,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Sunrise Power and Gas,6.74,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Sunrise Power and Gas,7.24,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Sunrise Power and Gas,6.84,6.0,0.0,0.0,0.0,2021-06-01,6.937,Below
+WattBuy,2021,6,PPL,Sunrise Power and Gas,7.44,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Sunrise Power and Gas,7.34,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Sunrise Power and Gas,6.94,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Sunrise Power and Gas,7.64,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,Sunrise Power and Gas,7.84,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,"Verde Energy USA, Inc.",8.09,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,"Verde Energy USA, Inc.",8.13,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,6,PPL,"Verde Energy USA, Inc.",8.33,6.0,0.0,0.0,0.0,2021-06-01,6.937,Above
+WattBuy,2021,7,PPL,CleanSky Energy,8.99,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Discount Power Inc.,8.49,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Energy Harbor LLC,8.35,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Frontier Utilities Northeast LLC,6.9,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Great American Power,4.89,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Great American Power,7.49,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,"IDT Energy, Inc.",7.85,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,"IDT Energy, Inc.",8.06,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Inspire,6.29,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Liberty Power,7.89,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Liberty Power,8.19,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Liberty Power,8.29,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Major Energy,7.74,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Major Energy,7.91,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,National Gas & Electric,8.59,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Nordic Energy Services LLC,7.899,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Powervine Energy,4.89,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Powervine Energy,7.49,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Residents Energy LLC,7.5,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Residents Energy LLC,7.95,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,SmartEnergy,12.1,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,SmartEnergy,11.7,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Star Energy Partners LLC,7.49,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Sunrise Power and Gas,7.44,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Sunrise Power and Gas,7.84,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Sunrise Power and Gas,7.54,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,Sunrise Power and Gas,8.04,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,"Verde Energy USA, Inc.",8.36,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
+WattBuy,2021,7,PPL,"Verde Energy USA, Inc.",8.53,6.0,0.0,0.0,0.0,2021-07-01,3.937,Above
