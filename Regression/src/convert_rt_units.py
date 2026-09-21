@@ -1,15 +1,24 @@
 import pandas as pd
-from pathlib import Path
+import os
 
-data_file = Path(__file__).resolve().parent.parent / "data" / "rt_pa_all_years_summary.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+REGRESSION_DIR = os.path.dirname(BASE_DIR)
 
-df = pd.read_csv(data_file)
+FILES = [
+    os.path.join(REGRESSION_DIR, "rt_pa_all_years_summary.csv"),
+    os.path.join(REGRESSION_DIR, "data", "rt_pa_all_years_summary.csv")
+]
 
-# Convert from $/MWh to cents/kWh and keep 3 decimal places
-df["Average"] = (df["Average"] / 10).round(3)
-df["Median"] = (df["Median"] / 10).round(3)
+for file_path in FILES:
+    df = pd.read_csv(file_path)
 
-df.to_csv(data_file, index=False)
+    # PJM RT price: $/MWh -> cents/kWh
+    df["Average"] = (df["Average"] / 10).round(3)
+    df["Median"] = (df["Median"] / 10).round(3)
 
-print("RT prices converted from $/MWh to cents/kWh.")
-print(df.head())
+    # Overwrite the original file
+    df.to_csv(file_path, index=False)
+
+    print("Converted:", file_path)
+
+print("Done.")

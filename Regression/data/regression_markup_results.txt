@@ -3,8 +3,8 @@
 Dep. Variable:            real_markup   R-squared:                       0.243
 Model:                            WLS   Adj. R-squared:                  0.243
 Method:                 Least Squares   F-statistic:                     752.1
-Date:                Sat, 19 Sep 2026   Prob (F-statistic):               0.00
-Time:                        23:36:50   Log-Likelihood:            -1.0299e+05
+Date:                Mon, 21 Sep 2026   Prob (F-statistic):               0.00
+Time:                        16:05:34   Log-Likelihood:            -1.0299e+05
 No. Observations:               37720   AIC:                         2.060e+05
 Df Residuals:                   37705   BIC:                         2.061e+05
 Df Model:                          14                                         
@@ -17,7 +17,7 @@ C(Year)[T.2018]       0.1516      0.042      3.607      0.000       0.069       
 C(Year)[T.2019]       0.1211      0.043      2.808      0.005       0.037       0.206
 C(Year)[T.2020]       0.3787      0.053      7.186      0.000       0.275       0.482
 C(Year)[T.2021]       2.8406      0.061     46.574      0.000       2.721       2.960
-C(Year)[T.2022]       4.9442      0.091     54.629      0.000       4.767       5.122
+C(Year)[T.2022]       4.9441      0.091     54.629      0.000       4.767       5.122
 C(Year)[T.2023]       3.4501      0.101     34.138      0.000       3.252       3.648
 C(Year)[T.2024]       4.0624      0.100     40.824      0.000       3.867       4.257
 C(Year)[T.2025]       3.8827      0.171     22.720      0.000       3.548       4.218
@@ -26,12 +26,12 @@ C(EDC)[T.METED]       0.2150      0.080      2.692      0.007       0.058       
 C(EDC)[T.PECO]       -1.3240      0.067    -19.725      0.000      -1.456      -1.192
 C(EDC)[T.PENELEC]     0.7421      0.080      9.294      0.000       0.586       0.899
 C(EDC)[T.PPL]        -0.5256      0.067     -7.888      0.000      -0.656      -0.395
-real_RT_Average      -0.0002      0.002     -0.127      0.899      -0.004       0.003
+real_RT_Average      -0.0023      0.018     -0.127      0.899      -0.037       0.033
 ==============================================================================
-Omnibus:                     2700.143   Durbin-Watson:                   0.499
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):             8981.540
+Omnibus:                     2700.141   Durbin-Watson:                   0.499
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             8981.536
 Skew:                           0.336   Prob(JB):                         0.00
-Kurtosis:                       5.294   Cond. No.                         588.
+Kurtosis:                       5.294   Cond. No.                         60.2
 ==============================================================================
 
 Notes:
