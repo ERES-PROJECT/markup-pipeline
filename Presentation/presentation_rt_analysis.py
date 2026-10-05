@@ -138,6 +138,27 @@ monthly_ba.to_csv(
     index=False
 )
 
+ppl_average = monthly_ba[
+    monthly_ba["EDC"] == "PPL"
+][
+    [
+        "Year",
+        "Month",
+        "Date",
+        "EDC",
+        "EGS_Average",
+        "PTC_Average",
+        "PJM_RT_Average"
+    ]
+].sort_values("Date")
+
+ppl_average.to_csv(
+    OUTPUT_DIR / "PPL_average_egs_ptc_rt.csv",
+    index=False
+)
+
+print("Created PPL_average_egs_ptc_rt.csv")
+
 
 print("========================================")
 print("B.a DATA")
