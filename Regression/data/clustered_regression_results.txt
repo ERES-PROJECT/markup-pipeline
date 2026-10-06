@@ -3,8 +3,8 @@
 Dep. Variable:            real_markup   R-squared:                       0.243
 Model:                            WLS   Adj. R-squared:                  0.243
 Method:                 Least Squares   F-statistic:                     23.80
-Date:                Mon, 05 Oct 2026   Prob (F-statistic):           1.47e-47
-Time:                        16:29:02   Log-Likelihood:            -1.0299e+05
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):           1.47e-47
+Time:                        19:07:11   Log-Likelihood:            -1.0299e+05
 No. Observations:               37720   AIC:                         2.060e+05
 Df Residuals:                   37705   BIC:                         2.061e+05
 Df Model:                          14                                         
@@ -26,12 +26,12 @@ C(EDC)[T.METED]       0.2150      0.445      0.483      0.629      -0.658       
 C(EDC)[T.PECO]       -1.3240      0.410     -3.229      0.001      -2.128      -0.520
 C(EDC)[T.PENELEC]     0.7421      0.447      1.661      0.097      -0.133       1.618
 C(EDC)[T.PPL]        -0.5256      0.396     -1.328      0.184      -1.302       0.250
-real_RT_Average      -0.0002      0.010     -0.022      0.982      -0.021       0.020
+real_RT_Average      -0.0023      0.104     -0.022      0.982      -0.205       0.201
 ==============================================================================
-Omnibus:                     2700.138   Durbin-Watson:                   0.499
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):             8981.528
+Omnibus:                     2700.137   Durbin-Watson:                   0.499
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             8981.524
 Skew:                           0.336   Prob(JB):                         0.00
-Kurtosis:                       5.294   Cond. No.                         588.
+Kurtosis:                       5.294   Cond. No.                         60.2
 ==============================================================================
 
 Notes:
