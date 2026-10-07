@@ -80,6 +80,16 @@ PA_EDCS = [
     "PPL"
 ]
 
+# File-name TLA and full display name for presentation figures
+EDC_CONFIG = {
+    "APS": {"tla": "APS", "full_name": "West Penn Power"},
+    "DUQ": {"tla": "DUQ", "full_name": "Duquesne Light"},
+    "METED": {"tla": "MET", "full_name": "Met-Ed"},
+    "PECO": {"tla": "PEC", "full_name": "PECO Energy Company"},
+    "PENELEC": {"tla": "PEN", "full_name": "Penelec"},
+    "PPL": {"tla": "PPL", "full_name": "PPL Electric Utilities"}
+}
+
 
 # ============================================================
 # Normalize EDC
@@ -1203,8 +1213,15 @@ def create_b_b(offers):
             label="Median Signup Fee"
         )
 
+        config = EDC_CONFIG.get(
+            edc,
+            {"tla": edc, "full_name": edc}
+        )
+        tla = config["tla"]
+        full_name = config["full_name"]
+
         plt.title(
-            edc
+            full_name
             + " - Average and Median Signup Fee"
         )
 
@@ -1225,7 +1242,7 @@ def create_b_b(offers):
         plt.tight_layout()
 
         filename = (
-            edc
+            tla
             + "_signup_fee_average_median.png"
         )
 
