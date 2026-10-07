@@ -31,7 +31,7 @@ EDC_CONFIG = {
         "full_name": "PPL Electric Utilities"
     },
     "PECO": {
-        "tla": "PEC",
+        "tla": "PECO",
         "full_name": "PECO Energy Company"
     },
     "DUQ": {

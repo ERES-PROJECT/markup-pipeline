@@ -85,7 +85,7 @@ EDC_CONFIG = {
     "APS": {"tla": "APS", "full_name": "West Penn Power"},
     "DUQ": {"tla": "DUQ", "full_name": "Duquesne Light"},
     "METED": {"tla": "MET", "full_name": "Met-Ed"},
-    "PECO": {"tla": "PEC", "full_name": "PECO Energy Company"},
+    "PECO": {"tla": "PECO", "full_name": "PECO Energy Company"},
     "PENELEC": {"tla": "PEN", "full_name": "Penelec"},
     "PPL": {"tla": "PPL", "full_name": "PPL Electric Utilities"}
 }
